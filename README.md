@@ -10,8 +10,7 @@ This GitHub repository hosts a React-based contact page designed for modern user
 - <a href="https://docs.google.com/spreadsheets/d/1XPxI_qRsfsqkmtV2TKxGwBRqae3kfBCj7xsRDkco2W0/edit?usp=sharing">Google Sheet</a>
 
 ## Project Image
-
-<img src="https://github.com/khushi-0807/One-Oath-Project/blob/main/snapshot.jpg">
+<img src="https://github.com/khushi-0807/One-Oath-Project/blob/main/Main_Page_Photo.jpg">
 
 ## Key Features
 
