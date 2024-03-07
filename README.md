@@ -7,7 +7,7 @@ This project is a modern, responsive "Contact Us" page built using React. It's d
 ## Quick Links
 
 - <a href="https://famous-gumdrop-1cb218.netlify.app/">Live Demo</a>
-- [Contribution Guidelines](https://github.com/yourusername/yourprojectname/CONTRIBUTING.md)
+- <a href="https://docs.google.com/spreadsheets/d/1XPxI_qRsfsqkmtV2TKxGwBRqae3kfBCj7xsRDkco2W0/edit?usp=sharing">Google Sheet</a>
 
 ## Project Image
 
