@@ -11,7 +11,7 @@ This GitHub repository hosts a React-based contact page designed for modern user
 
 ## Project Image
 
-<img src="https://github.com/khushi-0807/One-Oath-Project/blob/main/project-photo"/>
+<img src="https://github.com/khushi-0807/One-Oath-Project/blob/main/c4.jpg">
 
 ## Key Features
 
