@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a modern, responsive "Contact Us" page built using React. It's designed to provide visitors with a simple, effective way to get in touch. Featuring a clean UI, form validation, and a dynamic map display, this page can be easily integrated into any website looking for a professional contact solution.
+This GitHub repository hosts a React-based contact page designed for modern user experience, featuring form fields for Name, Email, Phone, and Message. Submissions are seamlessly integrated with Google Sheets for efficient data collection. The project emphasizes creativity, responsiveness, and transitions, providing a visually appealing and user-friendly interface. Deployment on Netlify ensures easy access, while thorough documentation facilitates setup and customization
 
 ## Quick Links
 
