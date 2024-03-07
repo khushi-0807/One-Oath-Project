@@ -15,7 +15,7 @@ This GitHub repository hosts a React-based contact page designed for modern user
 
 ## Key Features
 
-- *Responsive Design*: Ensures that the page looks great on devices of all sizes.
+- <h2> Modern Contact Page Design:</h2> <p>Crafted with a modern and user-friendly interface, the contact page ensures an intuitive experience for users.</p>
 - *Form Validation*: Includes client-side validation to ensure all submitted information is complete and correct.
 - *Map Integration*: Features a dynamic map to display the location, making it easier for users to find us.
 - *Accessibility*: Built with accessibility in mind, ensuring that everyone can easily navigate and use the contact form.
